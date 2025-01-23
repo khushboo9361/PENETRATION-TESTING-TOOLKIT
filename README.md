@@ -1,4 +1,18 @@
-# Penetration Testing Toolkit
+# Penetration Testing Toolkit 
+
+**Company**: CODETECH IT SOLUTIONS  
+
+**Name**  : KHUSHBOO KUMARI
+
+**Id**: CT08HQE
+
+**Domain**: CYBER SECURITY AND ETHICAL HACKING  
+
+**Batch Duration**: Dec 30th 2024 to Jan 30th, 2025 
+
+*Mentor Name**: NEELA SANTHOSH
+---
+
 
 A comprehensive cybersecurity tool for automated security assessments and vulnerability scanning.
 
